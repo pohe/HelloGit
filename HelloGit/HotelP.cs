@@ -19,6 +19,12 @@ namespace HelloGit
             Adress = adress;
         }
 
+        public void test()
+        {
+            Console.WriteLine("made in Poulslocal branch");
+            
+        }
+
         public override string ToString()
         {
             return base.ToString();
