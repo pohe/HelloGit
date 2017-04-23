@@ -10,6 +10,9 @@ namespace HelloGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world");
+            Console.WriteLine("This is the first correction");
+            Console.ReadLine();
         }
     }
 }
